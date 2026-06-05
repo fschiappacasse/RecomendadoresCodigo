@@ -2,10 +2,10 @@ LIGHTFM
 en multimodal_recsys (3).ipynb
 
 DEEPFM
-en multimodal_recsys (3).ipynb
+en deepfm_multimodal (1).ipynb
 
 ANALISIS ANTUGIO DATASET / CONVERSIÓN EN EMBEDDINGS DE NUEVOS DATASETS
-en  multimodal_recsys (3).ipynb
+AnalisisDatos_NuevosDatasets.ipynb
 
 MODELOS BASELINE
 en baseline.ipynp
