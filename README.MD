@@ -1,16 +1,11 @@
-LIGHTFM
-en multimodal_recsys (3).ipynb
+LIGHTFM:
+en lightfm_recsys.ipynb
 
-DEEPFM
-en deepfm_multimodal (1).ipynb
+DEEPFM:
+en deepfm_multimodal.ipynb
 
-ANALISIS ANTUGIO DATASET / CONVERSIÓN EN EMBEDDINGS DE NUEVOS DATASETS
-AnalisisDatos_NuevosDatasets.ipynb
+ANALISIS DATASET Y BASELINES:
+AnalisisDatosyBaselines.ipynb
 
-MODELOS BASELINE
-en baseline.ipynp
-
-El archivo CVS y los embeddings son necesarios para no correr todos os fetch muchas veces (lo que carda horas). 
+El archivo CVS y los embeddings son necesarios para no correr todos os fetch muchas veces (lo que tarda horas). 
 EL uso de IA esta declarado dentro de los cuadernillos, junto con el link que lo acompaña.
-
-
